@@ -1,0 +1,7 @@
+{
+  "name": "Rankify",
+  "description": "A web-based Commuter Omnibus Ranking System for digital FIFO queue management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
